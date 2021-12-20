@@ -2,7 +2,7 @@ body {
     background-color: rgba(212, 0, 255, 0.3);
     margin: 10px 10px;
 }
-.greetingForm {
+.orderForm {
     background-color: #888;
     padding: 20px;
     border-radius: 10px;
@@ -14,6 +14,6 @@ body {
     transform: translate(-50%, -50%);
     box-shadow: 1px 1px 4px 1px #444;
 }
-.greetingReadout {
+.readout {
     overflow: auto;
 }
